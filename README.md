@@ -5,7 +5,7 @@ Archivuji jako vzpomínku na začátky s C# a WinForms 😄
 
 ## Demo
 
-![Demo gif](https://media.martinben.es/trondemo.gif)
+![Demo gif](docs/demo.gif)
 
 ## Funkce
 
